@@ -1,0 +1,2 @@
+Olá, tudo bem?
+Exercicio de git em aula.
